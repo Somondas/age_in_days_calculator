@@ -1,0 +1,48 @@
+div.heading{
+    background-color: rgb(35, 37, 190);
+    color: black;
+    text-align: center;
+    border: 2px solid rgb(35, 37, 190);
+    padding-top: 20px;
+}
+
+div{
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+div.ans{
+    padding: 20px;
+    border: 1px solid black;
+}
+button.fst-btn{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+button.snd-btn{
+    background-color: #bd382e;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: right;
+
+}
+
+.result{
+    text-align: center;
+}
